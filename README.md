@@ -1,7 +1,9 @@
-# proyectoInfiernoooo
+# proyecto-card-match
 
-JEJE
-HELLOW COMPRATRIOTA VENEZOLANO PARA PODER JUGAR EL JUEGO USTED TIENE QUE ABRIR EL SIGUIENTE LINK(), Y TAMBIEN DEBE INSTALAR LAS DEPENDECIAS DE VITE, EN LA CONSOLA VA A CORRER EL SIGUEINTE COMANDO:
-cd (ruta de su proyecto o en un defecto la carperta)
-npm install
+this proyect is about a cart-game, where you have to fine the even cart using memory
+## Vite
+
+To run this proyect is important to have some version of vite-instalation:
+npm install -g create-vite
 npm run dev
+npm run build
